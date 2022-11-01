@@ -8,4 +8,4 @@ In this project it has we have tried to predict the defaulters and Non-defaulter
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Harshit-tech9/Credit-Card-Default-Paymnent-Classification.)
 
-<center><img src="img/Credit Card.png"/></center>
+<center><img src="assets/img/Credit Card.png"/></center>
