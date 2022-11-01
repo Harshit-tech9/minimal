@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Harshit Narendrabhai Panchal </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="linkedin.com/in/harshit-panchal-8b7aab141">LinkedIn</a> |
+  <a href="https://github.com/Harshit-tech9">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine Learning and NLP problems.
+  I have one year of exerience in developing the deep learning model and
+  worked on developing voice recognition system.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
